@@ -8,7 +8,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@rafaelacorrea1-4B0082?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rafaelacorrea1)](https://twitter.com/rafaelacorrea1)
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelafccorrea-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaelafccorrea)](https://linkedin.com/in/rafaelafccorrea)
-[![Instagram Badge](https://img.shields.io/badge/-@rafaelaffc-4B0082?style=flat-square&logo=Instagram&logoColor=white&link=https://linkedin.com/in/rafaelafccorrea)](https://linkedin.com/in/rafaelafccorrea)
+[![Instagram Badge](https://img.shields.io/badge/-@rafaelaffc-4B0082?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafaelaffc/)](https://www.instagram.com/rafaelaffc/)
 
 
 ### ⌨️Linguagens e ferramentas que uso no meu dia:🛠️
