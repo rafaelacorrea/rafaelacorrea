@@ -1,10 +1,11 @@
-# Rafaela Correa
+## Olá, I'm <a href="https://linkedin.com/in/rafaelafccorrea" target="_blank">Rafaela</a>!
 
 Conheci a tecnologia no curso técnico em informática do IFPA(Instituto Federal de Educação, Ciência e Tecnologia do Pará) e comecei a dar os primeiros passos com a programação. 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rafaelacorrea1)](https://twitter.com/rafaelacorrea1)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaelafccorrea)](https://linkedin.com/in/rafaelafccorrea)
+[![Twitter Badge](https://img.shields.io/badge/-@rafaelacorrea1-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rafaelacorrea1)](https://twitter.com/rafaelacorrea1)
+[![Linkedin Badge](https://img.shields.io/badge/-rafaelafccorrea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaelafccorrea)](https://linkedin.com/in/rafaelafccorrea)
+[![Instagram Badge](https://img.shields.io/badge/-@rafaelaffc-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://linkedin.com/in/rafaelafccorrea)](https://linkedin.com/in/rafaelafccorrea)
 
 
 💻 **Tecnologias e ferramentas que uso no meu dia
@@ -25,5 +26,4 @@ Conheci a tecnologia no curso técnico em informática do IFPA(Instituto Federal
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/223p2gx6obbktssf26xttvmki)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223p2gx6obbktssf26xttvmki&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
