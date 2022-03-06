@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@rafaelaffc-4B0082?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafaelaffc/)](https://www.instagram.com/rafaelaffc/)
 
 
-### ⌨️Linguagens e ferramentas que uso no meu dia:🛠️
+### ⌨️Linguagens e Frameworks que estou estudando atualmente:🚀
 
 <br />
 
@@ -20,20 +20,24 @@
 ![Sass](https://img.shields.io/badge/-Sass-4B0082?style=flat&logo=sass&logoColor=ffffff&labelColor=%4B0082)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4B0082?style=flat&logo=javascript&logoColor=ffffff&labelColor=4B0082)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-4B0082?style=flat&logo=TypeScript&logoColor=ffffff&labelColor=4B0082)
-![Python](https://img.shields.io/badge/-Python-4B0082?style=flat&logo=Python&logoColor=ffffff&labelColor=4B0082)
 ![React](https://img.shields.io/badge/-React-4B0082?style=flat&logo=React&logoColor=ffffff&labelColor=4B0082)
-![Git](https://img.shields.io/badge/-Git-4B0082?style=flat&logo=git&logoColor=ffffff&labelColor=4B0082)
-![GitHub](https://img.shields.io/badge/-GitHub-4B0082?style=flat&logo=github&logoColor=ffffff&labelColor=4B0082)
+![Python](https://img.shields.io/badge/-Python-4B0082?style=flat&logo=Python&logoColor=ffffff&labelColor=4B0082)
+![Django](https://img.shields.io/badge/-Django-4B0082?style=flat&logo=Django&logoColor=ffffff&labelColor=4B0082)
 
 
-### 💻Softwares:
+
+### 💻Softwares e Ferramentas que uso no meu dia a dia:🛠️
 
 <br />
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-4B0082?style=flat&logo=visual-studio-code&labelColor=4B0082)
 ![Figma](https://img.shields.io/badge/-Figma-4B0082?style=flat&logo=figma&logoColor=ffffff&labelColor=4B0082)
-
-
+![Docker](https://img.shields.io/badge/-Docker-4B0082?style=flat&logo=docker&logoColor=ffffff&labelColor=4B0082)
+![Git](https://img.shields.io/badge/-Git-4B0082?style=flat&logo=git&logoColor=ffffff&labelColor=4B0082)
+![GitHub](https://img.shields.io/badge/-GitHub-4B0082?style=flat&logo=github&logoColor=ffffff&labelColor=4B0082)
+![GitLab](https://img.shields.io/badge/-GitLab-4B0082?style=flat&logo=gitlab&logoColor=ffffff&labelColor=4B0082)
+![WSL](https://img.shields.io/badge/-WSL-4B0082?style=flat&logo=windows&logoColor=ffffff&labelColor=4B0082)
+![Ubunto](https://img.shields.io/badge/-Ubunto-4B0082?style=flat&logo=linux&logoColor=ffffff&labelColor=4B0082)
 
 <br />
 
