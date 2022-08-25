@@ -23,7 +23,8 @@
 ![React](https://img.shields.io/badge/-React-4B0082?style=flat&logo=React&logoColor=ffffff&labelColor=4B0082)
 ![Python](https://img.shields.io/badge/-Python-4B0082?style=flat&logo=Python&logoColor=ffffff&labelColor=4B0082)
 ![Django](https://img.shields.io/badge/-Django-4B0082?style=flat&logo=Django&logoColor=ffffff&labelColor=4B0082)
-
+![Elixir](https://img.shields.io/badge/-Elixir-4B0082?style=flat&logo=Elixir&logoColor=ffffff&labelColor=4B0082)
+![Phoenix](https://img.shields.io/badge/-Phoenix-4B0082?style=flat&logo=Phoenix&logoColor=ffffff&labelColor=4B0082)
 
 
 ### 💻Softwares e Ferramentas que uso no meu dia a dia:🛠️
