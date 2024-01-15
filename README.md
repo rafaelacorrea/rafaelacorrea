@@ -25,6 +25,8 @@
 ![Django](https://img.shields.io/badge/-Django-4B0082?style=flat&logo=Django&logoColor=ffffff&labelColor=4B0082)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B0082?style=flat&logo=Elixir&logoColor=ffffff&labelColor=4B0082)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-4B0082?style=flat&logo=Phoenix&logoColor=ffffff&labelColor=4B0082)
+![Java](https://img.shields.io/badge/-Java-4B0082?style=flat&logo=Java&logoColor=ffffff&labelColor=4B0082)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-4B0082?style=flat&logo=SpringBoot&logoColor=ffffff&labelColor=4B0082)
 
 
 ### 💻Softwares e Ferramentas que uso no meu dia a dia:🛠️
