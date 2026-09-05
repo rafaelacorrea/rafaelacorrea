@@ -1,5 +1,9 @@
 # Olá, I'm <a href="https://linkedin.com/in/rafaelafccorrea" target="_blank" style="color:#8A2BE2">Rafaela</a>!
 
+[![Visitas no perfil](https://komarev.com/ghpvc/?username=rafaelacorrea&color=4B0082&style=flat&label=Visitas+no+perfil)](https://github.com/rafaelacorrea)
+[![Seguidores](https://img.shields.io/github/followers/rafaelacorrea?style=flat&color=4B0082&labelColor=4B0082&logo=github&logoColor=white&label=Seguidores)](https://github.com/rafaelacorrea?tab=followers)
+[![Estrelas](https://img.shields.io/github/stars/rafaelacorrea?style=flat&color=4B0082&labelColor=4B0082&logo=github&logoColor=white&label=Estrelas)](https://github.com/rafaelacorrea?tab=repositories)
+
 👩🏻‍💻Conheci a tecnologia no curso técnico em informática do IFPA(Instituto Federal de Educação, Ciência e Tecnologia do Pará) e comecei a dar os primeiros passos com a programação. Hoje, a programação faz parte da minha vida e busco cada vez mais aprendizado dentro da comunidade Dev e quem sabe um dia ser fonte de conhecimento a ser compartilhado.🙋🏻‍♀️
 
 <br />
@@ -9,6 +13,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@rafaelacorrea1-4B0082?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rafaelacorrea1)](https://twitter.com/rafaelacorrea1)
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelafccorrea-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafaelafccorrea)](https://linkedin.com/in/rafaelafccorrea)
 [![Instagram Badge](https://img.shields.io/badge/-@rafaelaffc-4B0082?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafaelaffc/)](https://www.instagram.com/rafaelaffc/)
+[![Site Badge](https://img.shields.io/badge/-rafaelacorrea.dev-4B0082?style=flat-square&logo=GoogleChrome&logoColor=white)](https://rafaelacorrea.dev)
 
 
 ### ⌨️Linguagens e Frameworks que estou estudando atualmente:🚀
@@ -27,6 +32,7 @@
 ![Phoenix](https://img.shields.io/badge/-Phoenix-4B0082?style=flat&logo=Phoenix&logoColor=ffffff&labelColor=4B0082)
 ![Java](https://img.shields.io/badge/-Java-4B0082?style=flat&logo=Java&logoColor=ffffff&labelColor=4B0082)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-4B0082?style=flat&logo=SpringBoot&logoColor=ffffff&labelColor=4B0082)
+![AWS](https://img.shields.io/badge/-AWS-4B0082?style=flat&logo=amazonwebservices&logoColor=ffffff&labelColor=4B0082)
 
 
 ### 💻Softwares e Ferramentas que uso no meu dia a dia:🛠️
@@ -44,10 +50,44 @@
 
 <br />
 
+### 📊Minhas estatísticas
 
-| <a href="https://github.com/rafaelacorrea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelacorrea&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Rafaela Correa's github stats" /></a> | <a href="https://github.com/rafaelacorrea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelacorrea&layout=compact&theme=synthwave&hide_border=true" /></a> |
+<a href="https://github.com/rafaelacorrea">
+  <img align="center" src="https://streak-stats.demolab.com/?user=rafaelacorrea&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições de Rafaela Corrêa" />
+</a>
+
+<!--
+  Os dois cards do github-readme-stats (estatísticas gerais e linguagens mais
+  usadas) ficaram fora do ar: a instância pública em github-readme-stats.vercel.app
+  responde 503 DEPLOYMENT_PAUSED desde que os mantenedores pausaram o projeto por
+  custo. As instâncias alternativas testadas ou dão 404 ou devolvem o card de erro
+  "Something went wrong".
+
+  Para ter os cards de volta de forma confiável, publique a sua própria instância:
+    1. Faça fork de https://github.com/anuraghazra/github-readme-stats
+    2. Importe o fork na Vercel (plano gratuito basta)
+    3. Crie a variável de ambiente PAT_1 com um token do GitHub sem escopos
+    4. Troque a URL abaixo pelo domínio que a Vercel gerar e descomente
+
+| <a href="https://github.com/rafaelacorrea"><img align="center" src="https://SEU-PROJETO.vercel.app/api?username=rafaelacorrea&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" /></a> | <a href="https://github.com/rafaelacorrea"><img align="center" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=rafaelacorrea&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais usadas" /></a> |
 | ------------- | ------------- |
+-->
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223p2gx6obbktssf26xttvmki&cover_image=true&theme=novatorem&bar_color=924eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://img.shields.io/badge/-Meu%20perfil%20no%20Spotify-4B0082?style=flat&logo=spotify&logoColor=ffffff&labelColor=4B0082)](https://open.spotify.com/user/223p2gx6obbktssf26xttvmki)
+
+<!--
+  O card "tocando agora" usava spotify-github-profile.vercel.app, que hoje
+  responde 402 (Payment required / DEPLOYMENT_DISABLED) — o serviço público
+  do autor foi desativado, então o card não aparece para ninguém.
+
+  Para reativar, é preciso publicar a sua própria cópia, porque ela depende de
+  credenciais da sua conta do Spotify:
+    1. Siga https://github.com/kittinan/spotify-github-profile#deploy-your-own
+    2. Crie um app em https://developer.spotify.com/dashboard
+    3. Publique na Vercel com as chaves do app e um projeto no Firebase
+    4. Autorize sua conta e troque a URL abaixo pela que a Vercel gerar
+
+[![spotify-github-profile](https://SEU-PROJETO.vercel.app/api/view?uid=223p2gx6obbktssf26xttvmki&cover_image=true&theme=novatorem&bar_color=924eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+-->
